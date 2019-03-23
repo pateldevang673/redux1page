@@ -16,3 +16,7 @@ you will find src folder
 in this files you find the reduxdemo.js file in that file you will find step by step process
 
 And In The console You Can Understand The REDUX work
+
+
+
+you can also find code.mov  file and see how it gone be work
